@@ -1,0 +1,9 @@
+body { 
+background-color: #caf0f8; color: #1064bd; padding: 30px; /* Note: removed the space between 30 and px */ font-family: serif; 
+} 
+h1, h2 { color: #03045e; 
+} 
+p { color: #0077b6; 
+} 
+a { color: #000000; 
+}
